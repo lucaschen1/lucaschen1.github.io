@@ -1,8 +1,8 @@
 {
-    "homepage": "https://lucaschen1.github.io/lucaschen1.github.io",
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://lucaschen1.github.io",
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
